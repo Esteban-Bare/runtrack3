@@ -5,12 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <script src="script.js"></script>
 </head>
 
 <body>
-    <button onclick='myPopUp()' id='x'>Click here</button>
+    <script src="script.js">
+    </script>
 </body>
-<script src="script.js">
-</script>
+
 </html>

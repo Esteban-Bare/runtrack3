@@ -1,3 +1,3 @@
 function myPopUp() {
-    alert("Hello js");
+    console.log("Hello js");
 }
