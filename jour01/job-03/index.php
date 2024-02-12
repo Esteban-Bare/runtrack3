@@ -11,6 +11,4 @@
 <body>
     <button onclick='myPopUp()' id='x'>Click here</button>
 </body>
-<script src="script.js">
-</script>
 </html>

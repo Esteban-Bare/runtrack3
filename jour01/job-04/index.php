@@ -8,8 +8,7 @@
 </head>
 
 <body>
-    <script src="script.js">
-    </script>
+    <button onclick='getBixetille(date)' id='x'>Click here</button>
 </body>
-
+<script src="script.js"></script>
 </html>
