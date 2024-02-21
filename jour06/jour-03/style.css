@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.section {
+    background-color: #88c1d0;
+    padding: 20px;
+    margin: 10px;
+}
+
+
+@media screen and (min-width: 1600px) {
+    .section {
+        display: inline-block;
+        width: 23%; /* 100% / 4 sections */
+    }
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 1599px) {
+    .section {
+        display: inline-block;
+        width: 48%; 
+    }
+}
+
+
+@media screen and (max-width: 767px) {
+    .section {
+        display: block;
+        width: 100%;
+    }
+}
